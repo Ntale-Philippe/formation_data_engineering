@@ -1,4 +1,4 @@
-site,date,turbidite_ntu,ph
-Ibanda,2025-03-01,12.4,7.2
-Kadutu,2025-03-01,18.9,6.8
-Bagira,2025-03-01,9.7,7.3
+site,date,turbidite_ntu,ph,temp
+Ibanda,2025-03-01,12.4,7.2,15
+Kadutu,2025-03-01,18.9,6.8,17
+Bagira,2025-03-01,9.7,7.3,16
